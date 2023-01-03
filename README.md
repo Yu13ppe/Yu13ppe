@@ -46,7 +46,6 @@ Hello! My name is Jose Portillo, I am 20 years old and I am a computer engineeri
     <br>
     <img align="center" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/512px-Adobe_Illustrator_CC_icon.svg.png?20220814183839">
     <img align="center" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/512px-Adobe_Photoshop_CC_icon.svg.png?20200616073617">
-
 <br>
 
 <h3> 🤝🏻 Connect with Me </h3>
