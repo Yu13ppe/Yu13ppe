@@ -19,7 +19,7 @@ Hello! My name is Jose Portillo, I am 20 years old and I am a computer engineeri
     <img align="center" width="40px" src="https://cdn.freebiesupply.com/logos/large/2x/c-logo-svg-vector.svg">
     <img align="center" width="40px" src="https://www.vectorlogo.zone/logos/java/java-icon.svg">
   
-- 🌐 &nbsp; React | HTML | CSS | JavaScript | Bootstrap | Sass
+- 🌐 &nbsp; React | HTML | CSS | JavaScript | Bootstrap | Sass | Tailwind
     <br>
     <br>
     <img align="center" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png">
