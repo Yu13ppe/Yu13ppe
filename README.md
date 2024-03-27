@@ -1,7 +1,7 @@
 <h1><i> Hey! Welcome to my repository 👋 <i></h1>
 <h3> 👨🏻‍💻 About Me </h3>
 
-Hello! My name is Jose Portillo, I am 21 years old and I am a computer engineering student at the Dr. Rafael Belloso Chacín University (URBE), with an inclination towards front end web development
+Hello! My name is Jose Portillo, I am 22 years old and I am a computer engineering with an inclination towards front end web development
 
 - 🔭 &nbsp; I am currently learning React and React Native for Development.
 - 🤔 &nbsp; I explore new technologies for the development of software solutions and quick tricks.
